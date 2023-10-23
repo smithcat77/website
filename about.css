@@ -1,0 +1,91 @@
+#header h1{
+	color : black;
+	position : absolute;
+	top : 30px;
+	left : 90px;
+	font-size : 50px;
+	font-weight : bold;
+	font-family: 'Oxygen', sans-serif;
+}
+
+.aboutImage img{
+	width : 980px;
+	height : 960px;
+	border-top : 5px solid tan;
+	padding-top : 50px;
+	opacity : 0.7;
+}
+
+.bio{
+	padding-top : 0px;
+}
+.bio p{
+	width : 980px;
+	line-height : 22px;
+	font-size : 18px;
+	font-family: 'Oxygen', sans-serif;
+	color : #000;
+}
+
+#location1{
+	position : relative;
+	top : -870px;
+	left : 460px;
+	margin : 0 auto;
+	opacity : 0.9;
+	float : left;
+}
+
+.logo1 img{
+	width : 60px;
+	height : 60px;
+}
+
+#location2{
+	position : relative;
+	top : -350px;
+	left : 190px;
+	margin : 0 auto;
+	opacity : 1;
+	float : left;
+}
+
+.logo2 img{
+	width : 60px;
+	height : 60px;
+}
+
+#finder1{
+	position : relative;
+	top : -840px;
+	left : 585px;
+	margin : 0 auto;
+	opacity : 0.6;
+	float : left;
+}
+
+.finder1 img{
+	width : 35px;
+	height : 35px;
+}
+
+#finder2{
+	position : relative;
+	top : -320px;
+	left : 340px;
+	margin : 0 auto;
+	opacity : 0.6;
+	float : left;
+}
+
+.finder2 img{
+	width : 35px;
+	height : 35px;
+}
+
+.boxImage img{
+	height : 325px; 
+	width : 480px;
+	float : left;
+	padding : 10px;
+}

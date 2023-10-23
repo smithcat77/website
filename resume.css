@@ -1,0 +1,18 @@
+#header h1{
+	color : black;
+	position : absolute;
+	top : 30px;
+	left : 90px;
+	font-size : 50px;
+	font-weight : bold;
+font-family: 'Oxygen', sans-serif;
+}
+
+.resumeImage img{
+	width : 970px;
+	height : 1200px;
+	padding: 8px;
+	border-radius : 15px;
+	padding : 15px;
+	background-color : #695939;
+}

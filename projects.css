@@ -1,0 +1,69 @@
+#header h1{
+	color : black;
+	position : absolute;
+	top : 30px;
+	left : 90px;
+	font-size : 50px;
+	font-weight : bold;
+	font-family: 'Oxygen', sans-serif;
+}
+
+.oneThird img{
+	height : 210px;
+	width : 310px;
+	display : block;
+	margin-left : auto;
+	margin-right : auto;
+}
+
+.oneThird{
+	height : 475px;
+	width : 313px;
+	float : left;
+	padding : 12.5px;
+	text-align : left;
+}
+
+h2{
+	text-align : center;
+	font-family: 'Oxygen', sans-serif;
+}
+
+#farRight{
+	padding-left : 0px;
+}
+
+#farLeft{
+	padding-right : 0px;
+}
+
+#bottomRight{
+	padding-left : 0px;
+}
+
+#bottomLeft{
+	padding-right : 0px;
+}
+
+
+.bannerImage img{
+	width : 990px;
+	height : 460px;
+	padding: 5px 5px 0 5px;
+}
+
+.text h2{
+	text-align : center;
+	font-size : 30px;
+	font-family: 'Oxygen', sans-serif;
+}
+
+.text p{
+	text-align : left;
+	width : 1000px;
+	float : left;
+	padding : 5px;
+	margin : 5px;
+	font-family: 'Oxygen', sans-serif;
+	font-size : 15px;
+}
